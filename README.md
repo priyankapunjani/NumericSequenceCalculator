@@ -3,7 +3,7 @@ Numeric Sequence Calculator
 
 Introduction: This project enables the user to enter a number in a textbox, and then it shows the 4 kinds of series when user hit the Submit button.
 
-This project is using ASP.Net Core with MVC design, AgularJs, and Bootstrap for responsive webpage.(Visual Studio 2015 Update 3)I actually i turned the design into MVVM so that i could use ViewModels along with the Views, Controllers and Models.
+This project is using ASP.Net Core with MVC design, AgularJs, and Bootstrap for responsive webpage.(Visual Studio 2015 Update 3)I actually turned the design into MVVM so that i could use ViewModels along with the Views, Controllers and Models.
 
 I have also used the Dependency Injection using the interface and configured the service to get the results of my numeric series from the Services folder.
 
